@@ -66,7 +66,7 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ## 📫 Let’s Connect
 
-- 🌐 **Portfolio**: [rajneeshportfolio.vercel.app](https://rajneesh1304.vercel.app/)  
+- 🌐 **Portfolio**: [RAJNEESH](https://rajneesh1304.vercel.app/)  
 - 💼 **LinkedIn**: [Rajneesh Kumar](https://www.linkedin.com/in/rajneesh-kumar-5202122ab/)  
 - 💬 Open to internships, freelance work, and tech collaborations
 
