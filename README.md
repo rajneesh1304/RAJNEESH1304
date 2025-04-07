@@ -53,14 +53,14 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ## 📊 GitHub Stats
 
-![Rajneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BestCoder13&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BestCoder13&layout=compact&theme=tokyonight)
+![Rajneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RAJNEESH1304&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RAJNEESH1304&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=BestCoder13&theme=tokyonight&no-frame=true&row=1&margin-w=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=RAJNEESH1304&theme=tokyonight&no-frame=true&row=1&margin-w=15)
 
 ---
 
@@ -80,4 +80,4 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ---
 
-Thanks for visiting! Let’s keep building cool stuff. 🚀
+Thanks for visiting! Let’s keep building cool stuff. 🚀  
