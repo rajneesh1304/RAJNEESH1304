@@ -17,6 +17,9 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ## 💼 Experience
 
+🔹 **Sparkscale**  
+*Full Stack Developer Intern* – Worked on a full-stack project involving backend API development, integrations, and frontend features.
+
 🔹 **Vectrium Ventures**  
 *Frontend Intern* – Improved UI/UX and developed responsive web pages
 
@@ -26,6 +29,7 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ### 🖌️ Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -41,13 +45,11 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ### 🛠️ DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge)
 
 ### 📚 Programming Languages
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -80,4 +82,4 @@ I build clean, responsive websites and smart backend systems. I love solving rea
 
 ---
 
-Thanks for visiting! Let’s keep building cool stuff. 🚀  
+Thanks for visiting! Let’s keep building cool stuff. 🚀
